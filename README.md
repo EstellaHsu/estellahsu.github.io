@@ -9,13 +9,14 @@ Authors: Bing Xu<sup>1,2</sup>, Hao Wang<sup>3</sup>, Lorenza Dall’Aglio<sup>1
 <sup>7</sup>Department of Radiology and Nuclear Medicine, Erasmus MC University Medical Center Rotterdam, Rotterdam, The Netherlands\
 <sup>8</sup>Department of Social and Behavioral Sciences, Harvard T. Chan School of Public Health, Boston, MA, USA\
 
-## Canonical correlations in ABCD
+### Demographic information in ABCD and Generation R
+![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Table1.png?raw=true)
 
 
-
-
-
+### Generalizable canonical correlations in ABCD and Generation R
 ![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Figure1.png?raw=true)
+
+![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Table2.png?raw=true)
 
 
 
