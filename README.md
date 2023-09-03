@@ -14,15 +14,19 @@ Authors: Bing Xu<sup>1,2</sup>, Hao Wang<sup>3</sup>, Lorenza Dall’Aglio<sup>1
 
 
 ### Generalizable canonical correlations in ABCD and Generation R
+- We applied the model weights trained in ABCD training sets directly to ABCD test sets and Generation R. 
 ![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Figure1.png?raw=true)
 
 ![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Table2.png?raw=true)
 
 ### Brain canonical loadings 
+- The main contributor to the generalizable association is cortical surface area.
+- Although the 3rd canonical correlation is generalizable in Generation R, the bootstrapped brain loadings are high unstable, so we only considered the 1st canonical correlation valid. 
 ![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Figure2.png?raw=true)
 
 
 ### One generalizable brain-behavior dimension when using item-level scores of CBCL
+- Similar results when using the item-level scores of CBCL: one generalizable brain-behavior association about attention and externalizing problems. 
 ![alt text](https://github.com/EstellaHsu/estellahsu.github.io/blob/main/Figure3.png?raw=true)
 
 
